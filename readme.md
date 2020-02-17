@@ -1,1 +1,1 @@
-https://vaatlt.github.io/rsschool-cv/
+https://vaatlt.github.io/rsschool-cv/rsschool-cv-html/resume.html
